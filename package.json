@@ -1,6 +1,7 @@
 {
   "name": "redacted-token",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@douyinfe/semi-icons": "^2.59.1",
